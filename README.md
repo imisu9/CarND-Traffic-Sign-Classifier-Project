@@ -155,6 +155,7 @@ If a well known architecture was chosen:
 #### 1. Choose five German traffic signs found on the web and provide them in the report. For each image, discuss what quality or qualities might be difficult to classify.
 
 Here are five German traffic signs that I found on the web:
+I've cropped them so that they are centered and 32x32 resolution.
 
 ![alt text][image8] ![alt text][image9] ![alt text][image10] 
 ![alt text][image11] ![alt text][image12] ![alt text][image13]
