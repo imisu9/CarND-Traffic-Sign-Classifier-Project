@@ -26,12 +26,12 @@ The goals / steps of this project are the following:
 [image5]: ./examples/test_data_set_distribution.png "Test data set distribution"
 [image6]: ./examples/LeNet_architecture.png "LeNet architecture"
 [image7]: ./examples/Sermanet_LeCun_architecture.jpg "Sermanet LeCun architecture"
-[image8]: ./new_images/label_25.jpg "Label 25"
-[image9]: ./new_images/label_33.jpg "Label 33"
-[image10]: ./new_images/label_1.jpg "Label 1"
-[image11]: ./new_images/label_22.jpg "Label 22"
-[image12]: ./new_images/label_23.jpg "Label 23"
-[image13]: ./new_images/label_13.jpg "Label 13"
+[image8]: ./new_images/label_25.png "Label 25"
+[image9]: ./new_images/label_33.png "Label 33"
+[image10]: ./new_images/label_1.png "Label 1"
+[image11]: ./new_images/label_22.png "Label 22"
+[image12]: ./new_images/label_23.png "Label 23"
+[image13]: ./new_images/label_13.png "Label 13"
 [image14]: ./examples/prediction.png "Prediction Result "
 
 ## Rubric Points
